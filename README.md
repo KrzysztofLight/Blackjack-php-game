@@ -1,2 +1,2 @@
 # Blackjack-php-game
-Simple php app
+Simple PHP Blackjack Game
